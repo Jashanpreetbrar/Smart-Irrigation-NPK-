@@ -23,7 +23,7 @@ for the next 6 months using time series forecasting.
 """)
 
 # Define API endpoint
-API_URL = "http://localhost:8000"  # FastAPI server runs on port 8000
+API_URL = "https://smart-irrigation-vtxn.onrender.com"
 
 # Function to load data
 @st.cache_data
