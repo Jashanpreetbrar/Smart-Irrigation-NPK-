@@ -23,7 +23,7 @@ for the next 6 months using time series forecasting.
 """)
 
 # Define API endpoint
-API_URL = "https://smart-irrigation-vtxn.onrender.com/forecast"
+API_URL = "https://smart-irrigation-vtxn.onrender.com/"
 
 # Function to load data
 @st.cache_data
